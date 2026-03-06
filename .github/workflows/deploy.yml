@@ -15,7 +15,7 @@ permissions:
   packages: write
 
 env:
-  IMAGE_NAME: p-14139-2
+  IMAGE_NAME: p-14139-2-test
   REGISTRY: ghcr.io
 
 concurrency:
